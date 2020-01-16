@@ -1,0 +1,37 @@
+Witaj młody czarodzieju!
+         /a          /ko
+W tej grze Twoim zadaniem będzie zniszczenie wszystkich horkruksów,
+zanim zrobi to Twój przeciwnik! 
+Czy będziesz mieć na tyle odwagi, by stanąć w szranki z najwytrwalszymi?
+
+->Poukrywaj, według własnego uznania, horkruksy na polu bitwy.
+->Następnie obaj rozpoczniecie poszukiwania, podając koordynaty do szkoły magii,
+    to oni będą wiedzieć dalej, co z nimi robić.
+->Horkruksy są podzielone na ilość punktów wytrzymałości, które ciężej będzie
+    wyśledzić.
+->Uwaga: Jak ustrzelisz jednego, szukaj dalej w pobliżu, - prawo, lewo, góra, dół - 
+    ponieważ poszczególne przedmioty są ze sobą połączone!
+-->Wygrywa ten, który jako pierwszy znajdzie wszystkie ukryte horkruksy przeciwnika!
+
+To jak, wesprzesz świat magii?
+Psst: tylko nie mów nic mugolom
+
+
+Legenda mapki:
+# X - miejsce, w którym był ukryty cały/lub część horkruksa przeciwnika,
+# ! - miejsce przeszukane przez Ciebie, w którym niczego nie było,
+# ? - miejsce, które nie zostało jeszcze przeszukane,
+# 1 lub N - dziennik,
+# 2 lub M - medalion,
+# 3 lub W - wąż,
+# 4 lub N - Nokia,
+
+Horkruks - czarnoksięski przedmiot, w którym ktoś ukrył cząstkę własnej duszy.
+Cząstkę tę można powierzyć także innej istocie żywej, chociaż nie jest to
+zbyt rozsądne. Jeśli jednak ciało zostanie zaatakowane lub nawet zniszczone, 
+nie można umrzeć, ponieważ część duszy pozostaje na ziemi i jest nieuszkodzona.
+
+Mugol — człowiek, który nie posiada zdolności magicznych i nie jest w stanie w żaden sposób
+ich u siebie rozwinąć. Wobec mugoli stosowane są środki ostrożności mające na celu odciągnięcie
+ich uwagi od świata czarodziejów. Nadzoruje tego typu działania Ministerstwo Magii.
+Czarodzieje ukrywali się przed mugolami ze względu na ich historyczną wrogość wobec siebie. 
